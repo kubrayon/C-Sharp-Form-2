@@ -1,0 +1,28 @@
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe.config
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\bin\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Form1.resources
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Properties.Resources.resources
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\kubrayon2\kubrayon2\obj\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe.config
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\bin\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Form1.resources
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Properties.Resources.resources
+C:\Users\pc\Desktop\Yeni klasör (2)\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe.config
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\bin\Debug\kubrayon2.exe
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\bin\Debug\kubrayon2.pdb
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Form1.resources
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.Properties.Resources.resources
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Kübraa\GP\kubrayon2\kubrayon2\obj\Debug\kubrayon2.csproj.CoreCompileInputs.cache
